@@ -1,2 +1,2 @@
 # LearnGitBranch
-this is Barnch-1 branch
+this is Barnch-2 branch
